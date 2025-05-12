@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@vercel/postgres": "^0.10.0",
+    "framer-motion": "^12.6.5",
+    "react-icons": "^5.5.0",
+    "sonner": "^2.0.3"
+  }
+}
