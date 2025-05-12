@@ -1,0 +1,3 @@
+[submodule "local-business"]
+	path = local-business
+	url = https://github.com/LeeDev428/local-business.git
